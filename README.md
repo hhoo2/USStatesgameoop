@@ -1,5 +1,7 @@
 # U.S. States Game
-
+## Introduction
+Author -  Hay Oo
+  
 Welcome to the U.S. States Game! This Python-based game challenges you to guess the names of all 50 U.S. states on a blank map of the United States. The game includes a timer and a score tracker to add an element of challenge and fun.
 
 ![alt text](/program.png)
